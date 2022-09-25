@@ -1,0 +1,15 @@
+#include<stdio.h>
+int main(){
+
+int a=10;
+int b=5;
+printf("%d %d\n",a,b);
+a=a+b ;// 15
+b=a-b ;// 10
+a=a-b ;// 15-10 =5
+printf("%d %d\n",a,b);
+
+//a=5
+//b=10
+
+}
