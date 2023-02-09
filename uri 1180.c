@@ -9,7 +9,7 @@ int main()
 
     for(i=0; i<size; i++)
     {
-        scanf("%d",&a[i]);
+        scanf("%d ",&a[i]);
         if(a[i]<value)
         {
             value=a[i];
@@ -22,3 +22,18 @@ int main()
     return 0;
 }
 
+
+
+  else{
+                for(i=1;i<x;i++){
+            printf("%d %d %d\n",i,i=i+1,i=i+2);
+            i=i+2;
+        }
+    }
+    
+    	Problem Solving Lab
+    	
+    	
+    	
+    	
+    	
